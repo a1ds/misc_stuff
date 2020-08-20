@@ -1,6 +1,10 @@
 """Dictionaries merging techniques"""
 
 
+# Inspired by:
+# https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/
+
+
 # Assuming we have two groups of fruits, and we
 # need to merge them. One important notice, we
 # have the same fruit (banana) in both groups.
